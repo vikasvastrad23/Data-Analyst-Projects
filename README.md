@@ -10,6 +10,11 @@ Welcome to my data analysis project repository! Here's a collection of interesti
 * Cleaned, modelled, and analyzed 9 datasets to uncover insights into content trends to inform strategic decisions.
 * Dashboards of Tableau, PowerBI, MySQL are uploaded in the Google Drive : (https://drive.google.com/drive/folders/1m3zUrCgIQKV5ubpA_hmOHW-NLcVuxw6u?usp=sharing)
 
+# 3. Real Estate Analysis
+* Developed a comprehensive data analysis and visualization project using Python, Pandas, Matplotlib, and Seaborn to uncover key insights from real estate data.
+* Analyzed a dataset containing over 1,460 training entries and 1,459 testing entries, each with 80+ features related to house characteristics and sale prices.
+* Generated comprehensive plots such as bar charts, box plots, line graphs, and heatmaps to support data-driven decision making.
+
 # Skills used:
 MS Excel, Power BI, Tableau, Python, MySQL, Data Cleaning, Data Integration, Data Transformation, Data Validation, Data Dashboards.
 
